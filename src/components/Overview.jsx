@@ -1,19 +1,21 @@
+import StatisticCounter from "./StatisticCounter";
+
 function Overview() {
   const stats = [
     {
-      value: "1200+",
+      value: 1200,
       label: "Mahasiswa Aktif",
     },
     {
-      value: "45",
+      value: 45,
       label: "Dosen",
     },
     {
-      value: "10",
+      value: 10,
       label: "Laboratorium",
     },
     {
-      value: "25",
+      value: 25,
       label: "Mitra Industri",
     },
   ];
@@ -21,21 +23,13 @@ function Overview() {
   return (
     <section className="bg-slate-800 text-white py-20">
       <div className="container mx-auto px-6">
-
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
           {stats.map((item, index) => (
-            <div
+            <StatisticCounter
               key={index}
-              className="bg-slate-700 p-6 rounded-xl text-center hover:-translate-y-1 transition"
-            >
-              <h2 className="text-4xl font-bold text-red-500">
-                {item.value}
-              </h2>
-
-              <p className="mt-2 text-slate-300">
-                {item.label}
-              </p>
-            </div>
+              value={item.value}
+              label={item.label}
+            />
           ))}
         </div>
 
@@ -46,12 +40,11 @@ function Overview() {
 
           <p className="text-slate-300">
             Program Studi Teknik Informatika Universitas Sam Ratulangi
-            berkomitmen menghasilkan lulusan yang unggul dalam
-            bidang teknologi informasi, pengembangan perangkat lunak,
-            kecerdasan buatan, jaringan komputer, dan inovasi digital.
+            berkomitmen menghasilkan lulusan yang unggul dalam bidang teknologi
+            informasi, pengembangan perangkat lunak, kecerdasan buatan, jaringan
+            komputer, dan inovasi digital.
           </p>
         </div>
-
       </div>
     </section>
   );

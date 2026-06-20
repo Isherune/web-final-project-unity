@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "nidn": "123456789",
+    "field": "Artificial Intelligence",
+    "photo": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane Smith",
+    "nidn": "987654321",
+    "field": "Computer Vision",
+    "photo": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Michael Lee",
+    "nidn": "456123789",
+    "field": "Software Engineering",
+    "photo": "https://via.placeholder.com/150"
+  }
+]

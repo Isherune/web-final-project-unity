@@ -25,6 +25,10 @@ function Navbar() {
           <Link to="/academic" className="hover:text-red-500 transition">
             Akademik
           </Link>
+
+          <Link to="/organizations" className="hover:text-red-500 transition">
+            Organisasi
+          </Link>
         </div>
 
       </div>

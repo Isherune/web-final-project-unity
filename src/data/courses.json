@@ -1,0 +1,29 @@
+[
+  {
+    "semester": 1,
+    "courses": [
+      "Algoritma dan Pemrograman",
+      "Matematika Diskrit",
+      "Kalkulus",
+      "Pengantar Teknologi Informasi"
+    ]
+  },
+  {
+    "semester": 2,
+    "courses": [
+      "Struktur Data",
+      "Basis Data",
+      "Sistem Digital",
+      "Statistika"
+    ]
+  },
+  {
+    "semester": 3,
+    "courses": [
+      "Pemrograman Web",
+      "Jaringan Komputer",
+      "Sistem Operasi",
+      "Pemrograman Berorientasi Objek"
+    ]
+  }
+]

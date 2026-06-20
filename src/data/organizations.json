@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "HimTI",
+    "logo": "https://via.placeholder.com/150",
+    "description": "Himpunan Mahasiswa Teknik Informatika yang menjadi wadah pengembangan akademik dan non-akademik mahasiswa."
+  },
+  {
+    "id": 2,
+    "name": "UNITY",
+    "logo": "https://via.placeholder.com/150",
+    "description": "UKM yang berfokus pada pengembangan kemampuan teknologi dan keterampilan digital mahasiswa."
+  },
+  {
+    "id": 3,
+    "name": "Komunitas Programming",
+    "logo": "https://via.placeholder.com/150",
+    "description": "Komunitas mahasiswa yang aktif belajar dan berbagi pengetahuan mengenai pemrograman."
+  }
+]
