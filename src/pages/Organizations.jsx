@@ -7,7 +7,7 @@ function Organizations() {
   return (
     <>
       <Navbar />
-      <div className="min-h-screen bg-slate-900 text-white py-20">
+      <div className="min-h-screen bg-slate-900 text-white py-32">
         <div className="container mx-auto px-6">
           <h1 className="text-5xl font-bold text-center mb-10">
             Organisasi Mahasiswa

@@ -5,35 +5,26 @@ function Accordion({ semester, courses }) {
 
   return (
     <div className="bg-slate-800 rounded-xl overflow-hidden">
-
       <button
         onClick={() => setOpen(!open)}
-        className="w-full text-left p-5 flex justify-between items-center"
+        className="w-full text-left p-5 flex justify-between items-center hover:bg-red-800 transition-all duration-300 hover:scale-100"
       >
-        <span className="font-semibold">
-          Semester {semester}
-        </span>
+        <span className="font-semibold">Semester {semester}</span>
 
-        <span>
-          {open ? "−" : "+"}
-        </span>
+        <span>{open ? "−" : "+"}</span>
       </button>
 
       {open && (
         <div className="px-5 pb-5">
           <ul className="space-y-2">
             {courses.map((course, index) => (
-              <li
-                key={index}
-                className="text-slate-300"
-              >
+              <li key={index} className="text-slate-300">
                 • {course}
               </li>
             ))}
           </ul>
         </div>
       )}
-
     </div>
   );
 }

@@ -2,10 +2,13 @@
   {
     "semester": 1,
     "courses": [
-      "Algoritma dan Pemrograman",
+      "Algoritma dan Logika Informatika",
       "Matematika Diskrit",
       "Kalkulus",
-      "Pengantar Teknologi Informasi"
+      "Pengantar Teknologi Informasi",
+      "Bahasa Indonesia",
+      "Pendidikan Agama",
+      "Pendidikan Pancasila dan Kewarganegaraan"
     ]
   },
   {
@@ -14,16 +17,74 @@
       "Struktur Data",
       "Basis Data",
       "Sistem Digital",
-      "Statistika"
+      "Statistika dan Probabilitas",
+      "Bahasa Inggris",
+      "Aljabar Linear",
+      "Arsitektur dan Organisasi Komputer"
     ]
   },
   {
     "semester": 3,
     "courses": [
+      "Pemrograman Berorientasi Objek",
       "Pemrograman Web",
       "Jaringan Komputer",
       "Sistem Operasi",
-      "Pemrograman Berorientasi Objek"
+      "Teori Bahasa dan Otomata",
+      "Metode Numerik",
+      "Rekayasa Perangkat Lunak"
+    ]
+  },
+  {
+    "semester": 4,
+    "courses": [
+      "Desain dan Analisis Algoritma",
+      "Teknologi Basis Data",
+      "Interaksi Manusia dan Komputer",
+      "Pemrograman Mobile",
+      "Keamanan Sistem Informasi",
+      "Grafika Komputer",
+      "Pengetahuan Kepasifikan"
+    ]
+  },
+  {
+    "semester": 5,
+    "courses": [
+      "Kecerdasan Buatan",
+      "Pengolahan Citra Digital",
+      "Machine Learning",
+      "Komputasi Awan",
+      "Manajemen Proyek Perangkat Lunak",
+      "Kewirausahaan",
+      "Mata Kuliah Pilihan Peminatan I"
+    ]
+  },
+  {
+    "semester": 6,
+    "courses": [
+      "Sistem Terdistribusi",
+      "Data Mining dan Big Data",
+      "Pemrograman Web Lanjut",
+      "Metodologi Penelitian",
+      "Etika Profesi",
+      "Mata Kuliah Pilihan Peminatan II",
+      "Mata Kuliah Pilihan Peminatan III"
+    ]
+  },
+  {
+    "semester": 7,
+    "courses": [
+      "Kerja Praktek",
+      "Kuliah Kerja Terpadu (KKT)",
+      "Seminar Penelitian",
+      "Mata Kuliah Pilihan Peminatan IV",
+      "Mata Kuliah Pilihan Peminatan V"
+    ]
+  },
+  {
+    "semester": 8,
+    "courses": [
+      "Tugas Akhir / Skripsi"
     ]
   }
 ]

@@ -1,23 +1,236 @@
 [
   {
     "id": 1,
-    "name": "Dr. John Doe",
-    "nidn": "123456789",
-    "field": "Artificial Intelligence",
-    "photo": "https://via.placeholder.com/150"
+    "name": "Dr.Eng. Sary D.E. Paturusi, S.T., M.Eng.",
+    "nidn": "0014097401",
+    "field": "Sistem Data",
+    "kdk": "KDK Sistem Data",
+    "role": "Koordinator",
+    "photo": "https://ui-avatars.com/api/?name=Sary+Paturusi&background=0e7490&color=fff&size=150"
   },
   {
     "id": 2,
-    "name": "Dr. Jane Smith",
-    "nidn": "987654321",
-    "field": "Computer Vision",
-    "photo": "https://via.placeholder.com/150"
+    "name": "Agustinus Jacobus, S.T., M.Cs.",
+    "nidn": "0014087101",
+    "field": "Sistem Data",
+    "kdk": "KDK Sistem Data",
+    "role": "Sekretaris",
+    "photo": "https://ui-avatars.com/api/?name=Agustinus+Jacobus&background=0e7490&color=fff&size=150"
   },
   {
     "id": 3,
-    "name": "Dr. Michael Lee",
-    "nidn": "456123789",
-    "field": "Software Engineering",
-    "photo": "https://via.placeholder.com/150"
+    "name": "Virginia Tulenan, S.Kom., M.TI.",
+    "nidn": "0014018401",
+    "field": "Sistem Data",
+    "kdk": "KDK Sistem Data",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Virginia+Tulenan&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 4,
+    "name": "Oktavian Lantang, S.T., M.TI.",
+    "nidn": "0021107601",
+    "field": "Sistem Data",
+    "kdk": "KDK Sistem Data",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Oktavian+Lantang&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 5,
+    "name": "Bernad Jumadi D. Sitompul, S.Kom., M.Kom.",
+    "nidn": "0014018501",
+    "field": "Sistem Data",
+    "kdk": "KDK Sistem Data",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Bernad+Sitompul&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 6,
+    "name": "Fransisca J. Pontoh, S.T., M.T.",
+    "nidn": "0014018601",
+    "field": "Sistem Data",
+    "kdk": "KDK Sistem Data",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Fransisca+Pontoh&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 7,
+    "name": "Ade Yusupa, S.Pd., M.Kom.",
+    "nidn": "0014018701",
+    "field": "Sistem Data",
+    "kdk": "KDK Sistem Data",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Ade+Yusupa&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 8,
+    "name": "Brave A. Sugiarso, S.T., M.T.",
+    "nidn": "0014018801",
+    "field": "Teknologi Multimedia",
+    "kdk": "KDK Teknologi Multimedia",
+    "role": "Koordinator",
+    "photo": "https://ui-avatars.com/api/?name=Brave+Sugiarso&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 9,
+    "name": "Ir. Benefit Narasiang, M.T.",
+    "nidn": "0014018901",
+    "field": "Teknologi Multimedia",
+    "kdk": "KDK Teknologi Multimedia",
+    "role": "Sekretaris",
+    "photo": "https://ui-avatars.com/api/?name=Benefit+Narasiang&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 10,
+    "name": "Jimmy R. Robot, S.T., M.TI.",
+    "nidn": "0014019001",
+    "field": "Teknologi Multimedia",
+    "kdk": "KDK Teknologi Multimedia",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Jimmy+Robot&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 11,
+    "name": "Dirko G.S. Ruindungan, S.T., M.Eng.",
+    "nidn": "0014019101",
+    "field": "Teknologi Multimedia",
+    "kdk": "KDK Teknologi Multimedia",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Dirko+Ruindungan&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 12,
+    "name": "Harni Seven Adinata, S.Kom., M.Kom.",
+    "nidn": "0014019201",
+    "field": "Teknologi Multimedia",
+    "kdk": "KDK Teknologi Multimedia",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Harni+Adinata&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 13,
+    "name": "Henry Valentino F. Kainde, S.T., M.T.",
+    "nidn": "0014019301",
+    "field": "Teknologi Multimedia",
+    "kdk": "KDK Teknologi Multimedia",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Henry+Kainde&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 14,
+    "name": "Heilbert A. Mapaly, S.Kom., M.Eng.",
+    "nidn": "0014019401",
+    "field": "Teknologi Multimedia",
+    "kdk": "KDK Teknologi Multimedia",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Heilbert+Mapaly&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 15,
+    "name": "Xaverius B.N. Najoan, S.T., M.T.",
+    "nidn": "0014019501",
+    "field": "Rekayasa Perangkat Lunak",
+    "kdk": "KDK Rekayasa Perangkat Lunak",
+    "role": "Koordinator",
+    "photo": "https://ui-avatars.com/api/?name=Xaverius+Najoan&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 16,
+    "name": "Yaulie D.Y. Rindengan, S.T., M.M., M.Sc.",
+    "nidn": "0014019601",
+    "field": "Rekayasa Perangkat Lunak",
+    "kdk": "KDK Rekayasa Perangkat Lunak",
+    "role": "Sekretaris",
+    "photo": "https://ui-avatars.com/api/?name=Yaulie+Rindengan&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 17,
+    "name": "Dr.Eng. Steven R. Sentinuwo, S.T., M.TI.",
+    "nidn": "0014019701",
+    "field": "Rekayasa Perangkat Lunak",
+    "kdk": "KDK Rekayasa Perangkat Lunak",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Steven+Sentinuwo&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 18,
+    "name": "Ir. Hans F. Wowor, M.Kom.",
+    "nidn": "0014019801",
+    "field": "Rekayasa Perangkat Lunak",
+    "kdk": "KDK Rekayasa Perangkat Lunak",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Hans+Wowor&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 19,
+    "name": "Yuri Vanli Akay, S.Pd., M.T.",
+    "nidn": "0014019901",
+    "field": "Rekayasa Perangkat Lunak",
+    "kdk": "KDK Rekayasa Perangkat Lunak",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Yuri+Akay&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 20,
+    "name": "Kenneth Y.R. Palilingan, S.T., M.T.",
+    "nidn": "0014020001",
+    "field": "Rekayasa Perangkat Lunak",
+    "kdk": "KDK Rekayasa Perangkat Lunak",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Kenneth+Palilingan&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 21,
+    "name": "Stanley D.S. Karouw, S.T., M.TI.",
+    "nidn": "0014020101",
+    "field": "TIK dan Keamanan Siber",
+    "kdk": "KDK TIK dan Keamanan Siber",
+    "role": "Koordinator",
+    "photo": "https://ui-avatars.com/api/?name=Stanley+Karouw&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 22,
+    "name": "Daniel F. Sengkey, S.T., M.Eng.",
+    "nidn": "0014020201",
+    "field": "TIK dan Keamanan Siber",
+    "kdk": "KDK TIK dan Keamanan Siber",
+    "role": "Sekretaris",
+    "photo": "https://ui-avatars.com/api/?name=Daniel+Sengkey&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 23,
+    "name": "Alwin M. Sambul, S.T., M.Eng., Ph.D.",
+    "nidn": "0014020301",
+    "field": "TIK dan Keamanan Siber",
+    "kdk": "KDK TIK dan Keamanan Siber",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Alwin+Sambul&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 24,
+    "name": "Nancy J. Tuturoong, S.T., M.Kom.",
+    "nidn": "0014020401",
+    "field": "TIK dan Keamanan Siber",
+    "kdk": "KDK TIK dan Keamanan Siber",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Nancy+Tuturoong&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 25,
+    "name": "Salvius P. Lengkong, S.Pd., M.Eng.",
+    "nidn": "0014020501",
+    "field": "TIK dan Keamanan Siber",
+    "kdk": "KDK TIK dan Keamanan Siber",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Salvius+Lengkong&background=0e7490&color=fff&size=150"
+  },
+  {
+    "id": 26,
+    "name": "Salaki Reynaldo Joshua, S.Pd., M.Sc.",
+    "nidn": "0014020601",
+    "field": "TIK dan Keamanan Siber",
+    "kdk": "KDK TIK dan Keamanan Siber",
+    "role": "Anggota",
+    "photo": "https://ui-avatars.com/api/?name=Reynaldo+Salaki&background=0e7490&color=fff&size=150"
   }
 ]

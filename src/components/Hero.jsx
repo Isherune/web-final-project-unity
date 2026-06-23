@@ -1,46 +1,83 @@
 import { Link } from "react-router-dom";
+import StatisticCounter from "./StatisticCounter";
 
 function Hero() {
+  const stats = [
+    {
+      value: 1200,
+      label: "Mahasiswa Aktif",
+    },
+    {
+      value: 45,
+      label: "Dosen",
+    },
+    {
+      value: 10,
+      label: "Laboratorium",
+    },
+    {
+      value: 25,
+      label: "Mitra Industri",
+    },
+  ];
+
   return (
-    <section className="min-h-screen bg-slate-900 text-white flex items-center pt-20">
-      {" "}
-      <div className="container mx-auto px-6 grid md:grid-cols-2 gap-10">
-        <div>
-          <p className="text-red-500 font-semibold mb-3">PROGRAM STUDI</p>
+    <section
+      className="min-h-screen text-white relative flex flex-col justify-center items-center"
+      style={{
+        backgroundImage:
+          "url('https://i.ytimg.com/vi/EyEe6V1cXpI/maxresdefault.jpg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        fontFamily: "'Space Grotesk', sans-serif",
+      }}
+    >
+      {/* Overlay */}
+      <div className="absolute inset-0 bg-slate-900/85"></div>
 
-          <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-            Teknik Informatika
-            <span className="block text-red-500">UNSRAT</span>
-          </h1>
+      {/* Content */}
+      <div className="relative z-10 text-center max-w-7xl mx-auto px-6 pt-40 pb-24">
+        <p className="text-cyan-600 font-semibold mb-4 tracking-widest">
+          PROGRAM STUDI
+        </p>
 
-          <p className="mt-6 text-slate-300 text-lg">
-            Mencetak talenta digital, inovator teknologi, dan pemimpin masa
-            depan melalui pendidikan, penelitian, dan pengabdian masyarakat.
-          </p>
+        <h1 className="text-5xl md:text-7xl font-bold leading-tight">
+          Teknik Informatika
+          <span className="block text-cyan-600">UNSRAT</span>
+        </h1>
 
-          <div className="mt-8 flex gap-4">
-            <Link
-              to="/curriculum"
-              className="bg-red-600 px-6 py-3 rounded-lg hover:bg-red-700 transition"
-            >
-              Lihat Kurikulum
-            </Link>
+        <p className="mt-6 text-slate-200 text-lg max-w-2xl mx-auto">
+          Mencetak talenta digital, inovator teknologi, dan pemimpin masa depan
+          melalui pendidikan, penelitian, dan pengabdian masyarakat.
+        </p>
 
-            <Link
-              to="/facilities"
-              className="border border-white px-6 py-3 rounded-lg hover:bg-white hover:text-black transition"
-            >
-              Lihat Fasilitas
-            </Link>
-          </div>
+        <div className="mt-8 flex justify-center gap-4">
+          <Link
+            to="/curriculum"
+            className="bg-cyan-600 px-6 py-3 rounded-full hover:bg-cyan-800 transition-all duration-300 hover:scale-105"
+          >
+            Lihat Kurikulum
+          </Link>
+
+          <Link
+            to="/facilities"
+            className="border border-white px-6 py-3 rounded-full hover:bg-white hover:text-black transition-all duration-300 hover:scale-105"
+          >
+            Lihat Fasilitas
+          </Link>
         </div>
 
-        <div className="flex justify-center items-center">
-          <img
-            src="https://i.ytimg.com/vi/EyEe6V1cXpI/maxresdefault.jpg"
-            alt="Programming"
-            className="rounded-2xl shadow-xl"
-          />
+        {/* Statistics */}
+        <div className="mt-40 w-full">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-6xl mx-auto hover:scale-105 transition-transform duration-300">
+            {stats.map((item, index) => (
+              <StatisticCounter
+                key={index}
+                value={item.value}
+                label={item.label}
+              />
+            ))}
+          </div>
         </div>
       </div>
     </section>

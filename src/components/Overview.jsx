@@ -1,41 +1,12 @@
-import StatisticCounter from "./StatisticCounter";
-
 function Overview() {
-  const stats = [
-    {
-      value: 1200,
-      label: "Mahasiswa Aktif",
-    },
-    {
-      value: 45,
-      label: "Dosen",
-    },
-    {
-      value: 10,
-      label: "Laboratorium",
-    },
-    {
-      value: 25,
-      label: "Mitra Industri",
-    },
-  ];
-
   return (
-    <section className="bg-slate-800 text-white py-20">
+    <section className="bg-slate-900 text-white py-20">
       <div className="container mx-auto px-6">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-          {stats.map((item, index) => (
-            <StatisticCounter
-              key={index}
-              value={item.value}
-              label={item.label}
-            />
-          ))}
-        </div>
-
-        <div className="mt-20 text-center max-w-3xl mx-auto">
+        <div className="mt-5 text-center max-w-3xl mx-auto">
           <h2 className="text-3xl font-bold mb-4">
-            Tentang Teknik Informatika UNSRAT
+            About Teknik Informatika <br/>
+            <span className="text-red-800"> UNSRAT</span>
+           
           </h2>
 
           <p className="text-slate-300">
