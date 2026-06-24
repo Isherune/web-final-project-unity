@@ -5,7 +5,6 @@ function Tabs({ organizations }) {
 
   return (
     <div>
-
       <div className="flex justify-center gap-4 mb-8 flex-wrap">
         {organizations.map((org, index) => (
           <button
@@ -13,7 +12,7 @@ function Tabs({ organizations }) {
             onClick={() => setActiveTab(index)}
             className={`px-5 py-2 rounded-lg transition ${
               activeTab === index
-                ? "bg-red-600"
+                ? "bg-red-800"
                 : "bg-slate-800 hover:bg-slate-700"
             }`}
           >
@@ -23,7 +22,6 @@ function Tabs({ organizations }) {
       </div>
 
       <div className="bg-slate-800 rounded-2xl p-8 text-center">
-
         <img
           src={organizations[activeTab].logo}
           alt={organizations[activeTab].name}
@@ -34,12 +32,8 @@ function Tabs({ organizations }) {
           {organizations[activeTab].name}
         </h2>
 
-        <p className="text-slate-300">
-          {organizations[activeTab].description}
-        </p>
-
+        <p className="text-slate-300">{organizations[activeTab].description}</p>
       </div>
-
     </div>
   );
 }

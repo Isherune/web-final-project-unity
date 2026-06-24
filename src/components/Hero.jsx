@@ -8,7 +8,7 @@ function Hero() {
       label: "Mahasiswa Aktif",
     },
     {
-      value: 45,
+      value: 25,
       label: "Dosen",
     },
     {
@@ -16,7 +16,7 @@ function Hero() {
       label: "Laboratorium",
     },
     {
-      value: 25,
+      value: 10,
       label: "Mitra Industri",
     },
   ];

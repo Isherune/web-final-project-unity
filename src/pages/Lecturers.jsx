@@ -16,12 +16,33 @@ function Lecturers() {
     <>
       <Navbar />
 
-      <div className="min-h-screen bg-slate-900 text-white py-32">
-        <div className="container mx-auto px-6">
-          <h1 className="text-5xl font-bold text-center mb-10">
-            Direktori Dosen
-          </h1>
+      <div className="min-h-screen bg-slate-300 text-white">
+        {/* Header Section */}
+        <div
+          className="relative py-32"
+          style={{
+            backgroundImage: "url('inforengi.jpg')",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}
+        >
+          {/* Overlay gelap */}
+          <div className="absolute inset-0 bg-gray-300/80"></div>
 
+          <div className="relative z-10 container mx-auto px-6">
+            <h1 className="text-cyan-700 text-5xl font-bold text-center">
+              Direktori Dosen
+            </h1>
+
+            <p className="text-slate-700 text-center mt-4 max-w-2xl mx-auto">
+              Informasi dosen Program Studi Teknik Informatika Universitas Sam
+              Ratulangi berdasarkan bidang keahlian dan kelompok bidang kajian.
+            </p>
+          </div>
+        </div>
+
+        {/* Content */}
+        <div className="container mx-auto px-6 py-10">
           {/* Search */}
           <div className="max-w-md mx-auto mb-10">
             <SearchBar
@@ -35,7 +56,7 @@ function Lecturers() {
           </div>
 
           {/* Grid */}
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
             {filteredLecturers.map((lecturer) => (
               <LecturerCard key={lecturer.id} lecturer={lecturer} />
             ))}

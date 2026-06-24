@@ -6,7 +6,14 @@
     "field": "Sistem Data",
     "kdk": "KDK Sistem Data",
     "role": "Koordinator",
-    "photo": "https://ui-avatars.com/api/?name=Sary+Paturusi&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Sary+Paturusi&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Optimizing Data Structures for Efficient Algorithms",
+        "year": 2020,
+        "journal": "Journal of Computer Science and Technology"
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +22,14 @@
     "field": "Sistem Data",
     "kdk": "KDK Sistem Data",
     "role": "Sekretaris",
-    "photo": "https://ui-avatars.com/api/?name=Agustinus+Jacobus&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Agustinus+Jacobus&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Database Management Systems: A Comprehensive Review",
+        "year": 2019,
+        "journal": "International Journal of Database Technology"
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +38,14 @@
     "field": "Sistem Data",
     "kdk": "KDK Sistem Data",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Virginia+Tulenan&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Virginia+Tulenan&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Data Mining Techniques for Knowledge Discovery",
+        "year": 2021,
+        "journal": "Journal of Data Science and Analytics"
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +54,14 @@
     "field": "Sistem Data",
     "kdk": "KDK Sistem Data",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Oktavian+Lantang&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Oktavian+Lantang&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Big Data Analytics for Business Intelligence",
+        "year": 2022,
+        "journal": "International Journal of Big Data and Analytics"
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +70,14 @@
     "field": "Sistem Data",
     "kdk": "KDK Sistem Data",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Bernad+Sitompul&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Bernad+Sitompul&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Data Warehousing and Business Intelligence: A Case Study",
+        "year": 2020,
+        "journal": "Journal of Information Systems and Technology"
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +86,14 @@
     "field": "Sistem Data",
     "kdk": "KDK Sistem Data",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Fransisca+Pontoh&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Fransisca+Pontoh&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Data Security and Privacy in Cloud Computing",
+        "year": 2021,
+        "journal": "International Journal of Cloud Computing and Security"
+      }
+    ]
   },
   {
     "id": 7,
@@ -60,7 +102,14 @@
     "field": "Sistem Data",
     "kdk": "KDK Sistem Data",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Ade+Yusupa&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Ade+Yusupa&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Data Analytics for Decision Making in Organizations",
+        "year": 2022,
+        "journal": "Journal of Business Analytics and Decision Support"
+      }
+    ]
   },
   {
     "id": 8,
@@ -69,7 +118,14 @@
     "field": "Teknologi Multimedia",
     "kdk": "KDK Teknologi Multimedia",
     "role": "Koordinator",
-    "photo": "https://ui-avatars.com/api/?name=Brave+Sugiarso&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Brave+Sugiarso&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Multimedia Systems and Applications: A Review",
+        "year": 2020,
+        "journal": "Journal of Multimedia Technology and Applications"
+      }
+    ]
   },
   {
     "id": 9,
@@ -78,7 +134,14 @@
     "field": "Teknologi Multimedia",
     "kdk": "KDK Teknologi Multimedia",
     "role": "Sekretaris",
-    "photo": "https://ui-avatars.com/api/?name=Benefit+Narasiang&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Benefit+Narasiang&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Advancements in Multimedia Technology for Interactive Applications",
+        "year": 2019,
+        "journal": "International Journal of Interactive Multimedia"
+      }
+    ]
   },
   {
     "id": 10,
@@ -87,7 +150,14 @@
     "field": "Teknologi Multimedia",
     "kdk": "KDK Teknologi Multimedia",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Jimmy+Robot&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Jimmy+Robot&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Virtual Reality and Augmented Reality in Multimedia Applications",
+        "year": 2021,
+        "journal": "Journal of Virtual and Augmented Reality"
+      }
+    ]
   },
   {
     "id": 11,
@@ -96,7 +166,14 @@
     "field": "Teknologi Multimedia",
     "kdk": "KDK Teknologi Multimedia",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Dirko+Ruindungan&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Dirko+Ruindungan&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "3D Graphics and Animation Techniques for Multimedia",
+        "year": 2020,
+        "journal": "International Journal of 3D Graphics and Animation"
+      }
+    ]
   },
   {
     "id": 12,
@@ -105,7 +182,14 @@
     "field": "Teknologi Multimedia",
     "kdk": "KDK Teknologi Multimedia",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Harni+Adinata&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Harni+Adinata&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Multimedia Content Creation and Management",
+        "year": 2021,
+        "journal": "Journal of Multimedia Content and Management"
+      }
+    ]
   },
   {
     "id": 13,
@@ -114,7 +198,14 @@
     "field": "Teknologi Multimedia",
     "kdk": "KDK Teknologi Multimedia",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Henry+Kainde&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Henry+Kainde&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Multimedia Streaming and Delivery Techniques",
+        "year": 2020,
+        "journal": "International Journal of Multimedia Streaming"
+      }
+    ]
   },
   {
     "id": 14,
@@ -123,7 +214,14 @@
     "field": "Teknologi Multimedia",
     "kdk": "KDK Teknologi Multimedia",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Heilbert+Mapaly&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Heilbert+Mapaly&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Multimedia Systems and Applications: A Review",
+        "year": 2021,
+        "journal": "Journal of Multimedia Technology and Applications"
+      }
+    ]
   },
   {
     "id": 15,
@@ -132,7 +230,14 @@
     "field": "Rekayasa Perangkat Lunak",
     "kdk": "KDK Rekayasa Perangkat Lunak",
     "role": "Koordinator",
-    "photo": "https://ui-avatars.com/api/?name=Xaverius+Najoan&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Xaverius+Najoan&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Software Engineering Principles and Practices",
+        "year": 2020,
+        "journal": "Journal of Software Engineering and Development"
+      }
+    ]
   },
   {
     "id": 16,
@@ -141,7 +246,14 @@
     "field": "Rekayasa Perangkat Lunak",
     "kdk": "KDK Rekayasa Perangkat Lunak",
     "role": "Sekretaris",
-    "photo": "https://ui-avatars.com/api/?name=Yaulie+Rindengan&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Yaulie+Rindengan&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Agile Software Development Methodologies: A Comparative Study",
+        "year": 2019,
+        "journal": "International Journal of Agile Software Development"
+      }
+    ]
   },
   {
     "id": 17,
@@ -150,7 +262,14 @@
     "field": "Rekayasa Perangkat Lunak",
     "kdk": "KDK Rekayasa Perangkat Lunak",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Steven+Sentinuwo&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Steven+Sentinuwo&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Software Quality Assurance and Testing Techniques",
+        "year": 2021,
+        "journal": "Journal of Software Quality and Testing"
+      }
+    ]
   },
   {
     "id": 18,
@@ -159,7 +278,14 @@
     "field": "Rekayasa Perangkat Lunak",
     "kdk": "KDK Rekayasa Perangkat Lunak",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Hans+Wowor&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Hans+Wowor&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Software Project Management and Risk Assessment",
+        "year": 2020,
+        "journal": "International Journal of Software Project Management"
+      }
+    ]
   },
   {
     "id": 19,
@@ -168,7 +294,14 @@
     "field": "Rekayasa Perangkat Lunak",
     "kdk": "KDK Rekayasa Perangkat Lunak",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Yuri+Akay&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Yuri+Akay&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Software Architecture and Design Patterns",
+        "year": 2021,
+        "journal": "Journal of Software Architecture and Design"
+      }
+    ]
   },
   {
     "id": 20,
@@ -177,7 +310,14 @@
     "field": "Rekayasa Perangkat Lunak",
     "kdk": "KDK Rekayasa Perangkat Lunak",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Kenneth+Palilingan&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Kenneth+Palilingan&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Software Development Life Cycle Models: A Comparative Analysis",
+        "year": 2020,
+        "journal": "International Journal of Software Development and Life Cycle"
+      }
+    ]
   },
   {
     "id": 21,
@@ -186,7 +326,14 @@
     "field": "TIK dan Keamanan Siber",
     "kdk": "KDK TIK dan Keamanan Siber",
     "role": "Koordinator",
-    "photo": "https://ui-avatars.com/api/?name=Stanley+Karouw&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Stanley+Karouw&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Cybersecurity Threats and Countermeasures in Information Systems",
+        "year": 2021,
+        "journal": "Journal of Cybersecurity and Information Systems"
+      }
+    ]
   },
   {
     "id": 22,
@@ -195,7 +342,14 @@
     "field": "TIK dan Keamanan Siber",
     "kdk": "KDK TIK dan Keamanan Siber",
     "role": "Sekretaris",
-    "photo": "https://ui-avatars.com/api/?name=Daniel+Sengkey&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Daniel+Sengkey&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Network Security and Intrusion Detection Systems",
+        "year": 2020,
+        "journal": "International Journal of Network Security and Intrusion Detection"
+      }
+    ]
   },
   {
     "id": 23,
@@ -204,7 +358,14 @@
     "field": "TIK dan Keamanan Siber",
     "kdk": "KDK TIK dan Keamanan Siber",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Alwin+Sambul&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Alwin+Sambul&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Artificial Intelligence in Cybersecurity: Opportunities and Challenges",
+        "year": 2021,
+        "journal": "Journal of Artificial Intelligence and Cybersecurity"
+      }
+    ]
   },
   {
     "id": 24,
@@ -213,7 +374,14 @@
     "field": "TIK dan Keamanan Siber",
     "kdk": "KDK TIK dan Keamanan Siber",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Nancy+Tuturoong&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Nancy+Tuturoong&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Cybersecurity Awareness and Training Programs",
+        "year": 2020,
+        "journal": "Journal of Cybersecurity Education and Training"
+      }
+    ]
   },
   {
     "id": 25,
@@ -222,7 +390,14 @@
     "field": "TIK dan Keamanan Siber",
     "kdk": "KDK TIK dan Keamanan Siber",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Salvius+Lengkong&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Salvius+Lengkong&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Cybersecurity Policies and Compliance",
+        "year": 2021,
+        "journal": "Journal of Cybersecurity Policies and Compliance"
+      }
+    ]
   },
   {
     "id": 26,
@@ -231,6 +406,13 @@
     "field": "TIK dan Keamanan Siber",
     "kdk": "KDK TIK dan Keamanan Siber",
     "role": "Anggota",
-    "photo": "https://ui-avatars.com/api/?name=Reynaldo+Salaki&background=0e7490&color=fff&size=150"
+    "photo": "https://ui-avatars.com/api/?name=Reynaldo+Salaki&background=0e7490&color=fff&size=150",
+    "publication": [
+      {
+        "title": "Cryptography and Secure Communication Protocols",
+        "year": 2020,
+        "journal": "International Journal of Cryptography and Secure Communications"
+      }
+    ]
   }
 ]
